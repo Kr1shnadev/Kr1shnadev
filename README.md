@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there! I'm Krishnadev <br>A 3rd-year AI & Data Science student at Angadi Institute of Technology and Management. Passionate about AI-driven innovation, I love exploring how intelligent systems can solve real-world challenges. 🚀
+#👋 Hey there! I'm Krishnadev 
+<br>A 3rd-year AI & Data Science student at Angadi Institute of Technology and Management. Passionate about AI-driven innovation, I love exploring how intelligent systems can solve real-world challenges. 🚀
 
 
 ## 🌐 Socials:
